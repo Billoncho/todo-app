@@ -16,5 +16,5 @@ def write_todos(todos_arg, filepath=FILEPATH):
 
 print(__name__)
 if __name__ == "__main__":
-    print("Hello")
+    print("Hello World from the Function!")
     print(get_todos())
